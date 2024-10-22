@@ -1,6 +1,4 @@
 <h1 align="center">Hola 👋, soy Arturo Sierra</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arturosierra-cmd" alt="arturosierra-cmd" /></a> </p>
-
 - 📫 Cómo contactarme **g.arturosierra@gmail.com**
 
 - ⚡ Dato curioso **Las serpientes huelen con la lengua.**
